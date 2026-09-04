@@ -1,0 +1,8 @@
+site_name: CUB
+theme:
+  name: material
+nav:
+  - Accueil : index.md
+  - CUB-BLOC2-Activité0: 
+    - Activité 0 - Mise en place d'une machine Debian 13 servant de modèle:
+      - 01 Mise en place d'une machine Debian 13 servant de modèle: CUB-BLOC2-Activité0.md
